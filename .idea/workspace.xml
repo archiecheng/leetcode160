@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0cb06d4-79db-4d43-889d-f0b7b6ae9357" name="Changes" comment="leetcode5 - linked list cycle">
-      <change afterPath="$PROJECT_DIR$/src/NumberOf1Bits.java" afterDir="false" />
+    <list default="true" id="c0cb06d4-79db-4d43-889d-f0b7b6ae9357" name="Changes" comment="leetcode6 - number of 1 bits">
+      <change afterPath="$PROJECT_DIR$/src/CountingBits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1732077757365</updated>
       <workItem from="1732077758347" duration="5062000" />
-      <workItem from="1732127163075" duration="4045000" />
+      <workItem from="1732127163075" duration="4456000" />
+      <workItem from="1732205138236" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode1 - contain duplicate">
       <option name="closed" value="true" />
@@ -100,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732149534658</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="leetcode6 - number of 1 bits">
+      <option name="closed" value="true" />
+      <created>1732150986876</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732150986876</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +121,7 @@
     <MESSAGE value="leetcode3 - valid parentheses" />
     <MESSAGE value="leetcode4 - merge two sorted lists" />
     <MESSAGE value="leetcode5 - linked list cycle" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode5 - linked list cycle" />
+    <MESSAGE value="leetcode6 - number of 1 bits" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode6 - number of 1 bits" />
   </component>
 </project>
