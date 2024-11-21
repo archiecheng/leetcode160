@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0cb06d4-79db-4d43-889d-f0b7b6ae9357" name="Changes" comment="leetcode7 - counting bits">
-      <change afterPath="$PROJECT_DIR$/src/ReverseBits.java" afterDir="false" />
+    <list default="true" id="c0cb06d4-79db-4d43-889d-f0b7b6ae9357" name="Changes" comment="leetcode8 - reverse bits">
+      <change afterPath="$PROJECT_DIR$/src/MissingNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       <updated>1732077757365</updated>
       <workItem from="1732077758347" duration="5062000" />
       <workItem from="1732127163075" duration="4456000" />
-      <workItem from="1732205138236" duration="1335000" />
+      <workItem from="1732205138236" duration="2161000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode1 - contain duplicate">
       <option name="closed" value="true" />
@@ -117,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732205628448</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="leetcode8 - reverse bits">
+      <option name="closed" value="true" />
+      <created>1732207034091</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732207034091</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +139,7 @@
     <MESSAGE value="leetcode5 - linked list cycle" />
     <MESSAGE value="leetcode6 - number of 1 bits" />
     <MESSAGE value="leetcode7 - counting bits" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode7 - counting bits" />
+    <MESSAGE value="leetcode8 - reverse bits" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode8 - reverse bits" />
   </component>
 </project>
